@@ -1,0 +1,15 @@
+D:\Users\Lenovo\OrderManagement.Clean\OrderManagement.Shared\bin\Debug\net10.0\OrderManagement.Shared.deps.json
+D:\Users\Lenovo\OrderManagement.Clean\OrderManagement.Shared\bin\Debug\net10.0\OrderManagement.Shared.dll
+D:\Users\Lenovo\OrderManagement.Clean\OrderManagement.Shared\bin\Debug\net10.0\OrderManagement.Shared.pdb
+D:\Users\Lenovo\OrderManagement.Clean\OrderManagement.Shared\bin\Debug\net10.0\OrderManagement.Domain.dll
+D:\Users\Lenovo\OrderManagement.Clean\OrderManagement.Shared\bin\Debug\net10.0\OrderManagement.Domain.pdb
+D:\Users\Lenovo\OrderManagement.Clean\OrderManagement.Shared\obj\Debug\net10.0\OrderManagement.Shared.csproj.AssemblyReference.cache
+D:\Users\Lenovo\OrderManagement.Clean\OrderManagement.Shared\obj\Debug\net10.0\OrderManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Lenovo\OrderManagement.Clean\OrderManagement.Shared\obj\Debug\net10.0\OrderManagement.Shared.AssemblyInfoInputs.cache
+D:\Users\Lenovo\OrderManagement.Clean\OrderManagement.Shared\obj\Debug\net10.0\OrderManagement.Shared.AssemblyInfo.cs
+D:\Users\Lenovo\OrderManagement.Clean\OrderManagement.Shared\obj\Debug\net10.0\OrderManagement.Shared.csproj.CoreCompileInputs.cache
+D:\Users\Lenovo\OrderManagement.Clean\OrderManagement.Shared\obj\Debug\net10.0\OrderMan.CF89A0CB.Up2Date
+D:\Users\Lenovo\OrderManagement.Clean\OrderManagement.Shared\obj\Debug\net10.0\OrderManagement.Shared.dll
+D:\Users\Lenovo\OrderManagement.Clean\OrderManagement.Shared\obj\Debug\net10.0\refint\OrderManagement.Shared.dll
+D:\Users\Lenovo\OrderManagement.Clean\OrderManagement.Shared\obj\Debug\net10.0\OrderManagement.Shared.pdb
+D:\Users\Lenovo\OrderManagement.Clean\OrderManagement.Shared\obj\Debug\net10.0\ref\OrderManagement.Shared.dll
