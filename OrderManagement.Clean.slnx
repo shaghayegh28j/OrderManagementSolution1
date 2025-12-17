@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/0-Shared/">
+    <Project Path="OrderManagement.Shared/OrderManagement.Shared.csproj" />
+  </Folder>
+  <Folder Name="/Application/">
+    <Project Path="OrderManagement.Application/OrderManagement.Application.csproj" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="OrderManagement.Domain/OrderManagement.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Host/">
+    <Project Path="OrderManagement.Api/OrderManagement.Api.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="OrderManagement.Infrastructure/OrderManagement.Infrastructure.csproj" />
+  </Folder>
+</Solution>
